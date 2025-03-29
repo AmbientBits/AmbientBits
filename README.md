@@ -1,4 +1,25 @@
-## Hi there 👋
+# 🤖 AmbientBits
+
+**`Aspiring IoT Engineer`**
+
+M.Sc undergraduate in IoT.<!--INSERT MORE STUFF-->
+
+---
+
+### 🧰 Languages and Tools
+[![My Languages and Tools](https://skillicons.dev/icons?i=rust,java,cpp,python,git,github,linux)](https://skillicons.dev)
+
+<br />
+
+#
+
+<details>
+<summary><h3> Ambient's Coding Journey</h3></summary>
+<!-- Something something -->
+  
+</details>
+
+<!--##-->
 
 <!--
 **AmbientBits/AmbientBits** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
