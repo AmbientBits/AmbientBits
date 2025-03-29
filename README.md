@@ -9,8 +9,6 @@ M.Sc undergraduate in IoT.<!--INSERT MORE STUFF-->
 ### 🧰 Languages and Tools
 [![My Languages and Tools](https://skillicons.dev/icons?i=rust,java,cpp,python,git,github,linux)](https://skillicons.dev)
 
-<br />
-
 #
 
 <details>
