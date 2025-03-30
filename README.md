@@ -2,7 +2,7 @@
 
 **`Aspiring IoT Engineer`**
 
-### 🧰 Languages and Tools
+### 🧰 I code with...
 
 <img align="left" alt="Rust" src="https://img.shields.io/badge/Rust-000000?style=for-the-badge&logo=rust&logoColor=white" />
 <img align="left" alt="Java" src="https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white" />
