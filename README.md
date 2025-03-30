@@ -2,10 +2,6 @@
 
 **`Aspiring IoT Engineer`**
 
-M.Sc undergraduate in IoT. <!--INSERT MORE STUFF-->
-
-#
-
 ### 🧰 Languages and Tools
 
 <img align="left" alt="Rust" src="https://img.shields.io/badge/Rust-000000?style=for-the-badge&logo=rust&logoColor=white" />
